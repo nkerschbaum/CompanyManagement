@@ -1,0 +1,7 @@
+Name: Norbert
+Geb.:1976
+ID: 1006
+Seit:2017
+Stundenlohn: 10
+Stunden: 20
+Facharbeiter
